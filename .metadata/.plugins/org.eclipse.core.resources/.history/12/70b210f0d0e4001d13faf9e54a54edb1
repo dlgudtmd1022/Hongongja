@@ -1,0 +1,16 @@
+package sec03;
+
+public class Week {
+
+	public enum Week {
+		MONDAY,
+		TUESDAY,
+		WEDNESDAY,
+		THURSDAY,
+		FRIDAY,
+		SATURDAY,
+		SUNDAY
+	}
+	}
+
+}
