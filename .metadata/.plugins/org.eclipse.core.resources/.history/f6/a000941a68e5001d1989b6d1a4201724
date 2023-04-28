@@ -1,0 +1,16 @@
+package sec03;
+
+public class Car3 {
+	String company = "현대자동차";
+	String model;
+	String color;
+	int maxSpeed;
+	
+	Car3(){
+		
+	}
+	
+	Car3(String model){
+		this(modeㅣ, "은색", 250);
+	}
+}
