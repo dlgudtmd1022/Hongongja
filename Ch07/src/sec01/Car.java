@@ -1,17 +1,18 @@
 package sec01;
 
 public class Car {
-	//필드
+	//�ʵ�
 	public int speed;
 	
-	//메소드
+	//�޼ҵ�
 	public void speedUp() {
-		speed+=1;
-	}
-	//final 메소드
+		speed += 1;
+	}		
+	
+	//final �޼ҵ�
 	public final void stop() {
-		System.out.println("차를 멈춤");
-		speed=0;
+		System.out.println("���� ����");
+		speed = 0;
 	}
-
 }
+
