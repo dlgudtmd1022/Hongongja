@@ -1,7 +1,7 @@
 package chapter01.ex01;
 
 public class Member {
-
+	//11시작
 	public String id;
 	
 	public Member(String id) {
