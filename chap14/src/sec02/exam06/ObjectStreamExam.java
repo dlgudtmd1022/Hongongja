@@ -16,7 +16,7 @@ public class ObjectStreamExam {
 			System.out.println(
 					board.getBno() + "\t" + board.getTitle() + "\t" +
 							board.getContent() + "\t" + board.getWriter() + "\t" +
-							sdf.format(board.getData())
+							sdf.format(board.getDate())
 			);
 		}
 	}
